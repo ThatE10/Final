@@ -38,6 +38,3 @@ Advanced machine learning project for automated bird species identification usin
 - Expand to more bird species
 - Real-time audio classification
 - Enhanced model architectures
-
-## 📫 Contact
-[Your Professional Contact Information]
